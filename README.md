@@ -1,6 +1,6 @@
 # The Open Source Audit: firefox
 
-**Student Name:** jeelraithatha8-png <br>
+**Student Name:** Jeel Vipul Raithatha <br>
 **Registration Number:** 24BCE10859 <br>
 **Project Focus:** firefox (FOSS Audit)
 
